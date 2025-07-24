@@ -1,4 +1,4 @@
-Absolutely! Here's a **sanitized, comprehensive Kubernetes learning roadmap**, organized from beginner to expert level. You can easily copy this into your notes, Notion, or GitHub repo for tracking.
+
 
 ---
 
@@ -219,12 +219,4 @@ Absolutely! Here's a **sanitized, comprehensive Kubernetes learning roadmap**, o
 
 ---
 
-### ✅ Next Step
 
-Would you like:
-
-1. **A markdown or Notion-ready version**?
-2. **A 30- or 60-day daily plan** based on this outline?
-3. A **GitHub repo template with folders** for each section and labs?
-
-Let me know how you’d like to proceed!
