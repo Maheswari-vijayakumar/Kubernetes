@@ -1,5 +1,6 @@
 # 📅 **Day 2 – Pods, ReplicaSets & Deployments**
 
+
 ## 🎯 Goals for Today
 
 * Understand the difference between **Pods**, **ReplicaSets**, and **Deployments**
