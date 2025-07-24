@@ -1,16 +1,3 @@
-You're absolutely correct again — here's what we've already covered:
-
----
-
-### ✅ **What’s Already Covered:**
-
-* **Day 2**
-
-  * Deployments, ReplicaSets, Rolling Updates, Rollbacks, Declarative Config
-
-* **Day 3**
-
-  * ClusterIP, NodePort, LoadBalancer, Headless Services
 # 📘 **Day 7 – Liveness & Readiness Probes + Resource Limits**
 
 ---
