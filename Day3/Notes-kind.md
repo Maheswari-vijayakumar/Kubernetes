@@ -1,5 +1,6 @@
 # 📅 **Day 3 – Services & Networking (with KIND)**
 
+
 ---
 
 ## 🧰 Step 1: Create a KIND Cluster with Port Mapping
