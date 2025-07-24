@@ -1,5 +1,3 @@
-Absolutely — let’s elevate the quality to **expert-level**, with a more **structured**, **real-world** and **insightful** guide to Kubernetes **Affinity & Anti-Affinity**, as if you're preparing for **CKA** or managing **production clusters**.
-
 ---
 
 # 🚀 Advanced Kubernetes Scheduling – Affinity & Anti-Affinity (Day 9)
