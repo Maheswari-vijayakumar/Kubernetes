@@ -1,6 +1,4 @@
 
----
-
 # 📅 **Day 1 – Introduction to Kubernetes & Setup**
 
 ## 🎯 Goals for Today
