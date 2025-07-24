@@ -1,4 +1,4 @@
-# 📘 **Day 4 – ConfigMaps & Secrets**
+# 📘 **Day 5 – ConfigMaps & Secrets**
 
 ---
 
